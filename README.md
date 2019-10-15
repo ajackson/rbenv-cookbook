@@ -153,3 +153,5 @@ options       | Additional options to the underlying gem command   |
 # Authors and Contributors
 
 * Jamie Winsor (<jamie@vialstudios.com>)
+
+*EASYCLA TEST ONLY* DO NOT MERGE
